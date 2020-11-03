@@ -1,0 +1,19 @@
+body {
+    color:dimgray;
+    font-family: Arial, Verdana, sans-serif;
+}
+#contact {
+    border: 1px dotted lightgray;
+}
+.employer {
+    color: darkred; font-weight: bold;
+}
+.location {
+    color: dimgray; font-size: small;
+}
+.school {
+    font-size: 1.1em; font-weight: bolder; color: darkred; text-decoration-line: underline;
+}
+.section {
+    font-size: 1.25em; font-weight: bold; color: black;
+}
